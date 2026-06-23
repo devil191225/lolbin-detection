@@ -1,3 +1,8 @@
+> [!NOTE]
+> **Authorized Use Only** — This is a security research project. Use only on systems you own or have explicit written authorization to access/monitor. Read [DISCLAIMER.md](./DISCLAIMER.md) and [LICENSE](./LICENSE) before use.
+
+---
+
 # LOLBin Detection and Explanation System
 
 A production-grade, real-time system for detecting Living Off The Land Binary (LOLBin) attacks using machine learning with integrated explainability features.
@@ -231,4 +236,3 @@ black app/
 ## License
 
 Proprietary - All rights reserved
-
